@@ -1,30 +1,25 @@
-# SISTEMA DE VENTAS
+# Sistema de Ventas
 
 ## Autor
 Juan Mila
 
 ## Descripción
-Proyecto desarrollado en Java con arquitectura por capas usando DAO y conexión a MySQL.
+Proyecto en Java conectado a MySQL usando DAO para manejar datos.
 
 ## Base de Datos
-1. Crear base de datos: db_sistema
-2. Importar archivo db_sistema.sql
-
-## Configuración
-- Usuario: root
-- Password: (vacío)
-- Puerto: 3306
+- Crear la BD: db_sistema  
+- Importar: db_sistema.sql  
 
 ## Ejecución
-1. Abrir en NetBeans
-2. Ejecutar clases de prueba en paquete presentacion
+- Abrir en NetBeans  
+- Ejecutar pruebas en "presentacion"  
 
 ## Estructura
-- database: conexión a BD
-- datos: DAO
-- entidades: clases modelo
-- presentacion: pruebas
+- database: conexión  
+- datos: DAO  
+- entidades: clases  
+- presentacion: pruebas  
 
 ## Funcionalidades
-- CRUD Cliente
-- CRUD Categoria
+- CRUD Cliente  
+- CRUD Categoria  
